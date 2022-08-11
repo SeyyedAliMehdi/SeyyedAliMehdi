@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Mahdi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyyedalimehdi&label=Profile%20views&color=0e75b6&style=flat" alt="seyyedalimehdi" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seyyedalimehdi&label=Profile%20views&color=0e75b6&style=flat" alt="seyyedalimehdi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seyyedalimehdi" alt="seyyedalimehdi" /></a> </p>
+
 
 - 🌱 I’m currently learning **some Javascript libraries**
 
@@ -18,6 +18,7 @@
 <a href="https://dribbble.com/alimahdi_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alimahdi_t" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/seyyedalimehdi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="seyyedalimehdi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/seyyedalimehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="seyyedalimehdi" height="30" width="40" /></a>
+   <a href="https://quera.org/profile/SeyyedAliMahdi/activity" target="blank"><img align="center" src="https://quera.org/static/images/logo/logo.2-37f748b73943.svg" alt="seyyedalimehdi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
