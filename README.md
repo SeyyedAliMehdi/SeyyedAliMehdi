@@ -14,7 +14,7 @@
 <a href="https://dribbble.com/alimahdi_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alimahdi_t" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/seyyedalimehdi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="seyyedalimehdi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/seyyedalimehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="seyyedalimehdi" height="30" width="40" /></a>
-   <a href="https://quera.org/profile/SeyyedAliMahdi/activity" target="blank"><img align="center" src="https://quera.org/media/CACHE/images/public/careers/logos/53967a6f971c47af9b2ead9fcfcc6d7f/0a84486bca81cce9664755489b1a786b.png" alt="seyyedalimehdi" height="30" width="40" /></a>
+   <a href="https://quera.org/profile/SeyyedAliMahdi/activity" target="blank"><img align="center" src="https://quera.org/media/CACHE/images/public/careers/logos/53967a6f971c47af9b2ead9fcfcc6d7f/0a84486bca81cce9664755489b1a786b.png" alt="seyyedalimehdi" height="30" width="30" /></a>
    
 </p>
 
